@@ -9,7 +9,6 @@
         <div class="text-subtitle1">{{ todaysDate }}</div>
       </div>
       <q-img src="flag-poland.png" class="header-image absolute-top" />
-      <q-search v-model="search" class="primary" disable></q-search>
     </q-header>
 
     <q-drawer
@@ -72,7 +71,7 @@
           <!--/Drinks-->
 
           <!--Food-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/food" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="lunch_dining" />
             </q-item-section>
@@ -81,7 +80,7 @@
           <!--/Food-->
 
           <!--Hobbies-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/hobbies" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="hiking" />
             </q-item-section>
@@ -90,7 +89,7 @@
           <!--/Hobbies-->
 
           <!--Numbers-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/numbers" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="pin" />
             </q-item-section>
@@ -168,7 +167,6 @@ export default {
   data() {
     return {
       leftDrawerOpen: false,
-      search: "",
     };
   },
   computed: {

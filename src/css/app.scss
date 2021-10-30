@@ -4,6 +4,7 @@
 }
 .q-table tbody td {
   font-size: 18px;
+  text-align: center;
 }
 .q-px-lg {
   padding-left: 15px;
@@ -17,3 +18,18 @@
   margin-right: auto;
   width: 50%;
 }
+.number-table-head {
+  color: #056491;
+}
+
+.q-table.alphabet-table {
+  tbody td,
+  thead th {
+    text-align: left;
+  }
+}
+
+// .q-table.alphabet-table tbody td,
+// .q-table.alphabet-table thead th {
+//   text-align: left;
+// }

@@ -1,17 +1,16 @@
 <template>
   <q-page class="column">
-    <table class="q-table">
+    <table class="q-table alphabet-table">
       <thead>
         <tr>
-          <th class="text-left">Letter</th>
-          <th class="text-left">Tips</th>
+          <th>Letter</th>
+          <th>Tips</th>
         </tr>
       </thead>
-
       <tbody>
         <tr v-for="letter in alphabet" :key="letter.alphabet" v-ripple>
-          <td class="text-left">{{ letter.letter }}</td>
-          <td class="text-left">{{ letter.tips }}</td>
+          <td>{{ letter.letter }}</td>
+          <td>{{ letter.tips }}</td>
         </tr>
       </tbody>
     </table>

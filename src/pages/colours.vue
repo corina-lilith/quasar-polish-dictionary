@@ -5,12 +5,11 @@
       <table class="q-table">
         <tbody>
           <tr>
-            <td class="text-center">{{ colour.enlish }}</td>
-            <td class="text-center">{{ colour.polish }}</td>
+            <td>{{ colour.enlish }}</td>
+            <td>{{ colour.polish }}</td>
           </tr>
         </tbody>
       </table>
-      <q-card-separator />
     </q-card>
   </div>
 </template>

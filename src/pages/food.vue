@@ -1,12 +1,12 @@
 <template>
   <div class="q-pa-md row items-start q-gutter-md">
-    <q-card v-for="drinks in napoje" :key="drinks.english">
-      <q-img class="card-img" :src="drinks.image" />
+    <q-card v-for="food in jedzenie" :key="food.english">
+      <q-img class="card-img" :src="food.image" />
       <table class="q-table">
         <tbody>
           <tr>
-            <td>{{ drinks.english }}</td>
-            <td>{{ drinks.polish }}</td>
+            <td>{{ food.english }}</td>
+            <td>{{ food.polish }}</td>
           </tr>
         </tbody>
       </table>
@@ -17,51 +17,51 @@
 export default {
   data() {
     return {
-      napoje: [
+      jedzenie: [
         {
           english: "Beer",
           polish: "Piwo",
-          image: "/drinks/beer.jpg",
+          image: "/food/beer.jpg",
         },
         {
           english: "Coffee",
           polish: "Kawa",
-          image: "/drinks/coffee.jpg",
+          image: "/food/coffee.jpg",
         },
         {
           english: "Cola",
           polish: "Cola",
-          image: "/drinks/cola.jpg",
+          image: "/food/cola.jpg",
         },
         {
           english: "Juice",
           polish: "Sok",
-          image: "/drinks/juice.jpg",
+          image: "/food/juice.jpg",
         },
         {
           english: "Cocktail",
           polish: "koktajl",
-          image: "/drinks/cocktail.jpg",
+          image: "/food/cocktail.jpg",
         },
         {
           english: "Tea",
           polish: "Herbata",
-          image: "/drinks/tea.jpg",
+          image: "/food/tea.jpg",
         },
         {
           english: "Vodka",
           polish: "Wódka",
-          image: "/drinks/vodka.jpg",
+          image: "/food/vodka.jpg",
         },
         {
           english: "Water",
           polish: "Woda",
-          image: "/drinks/water.jpg",
+          image: "/food/water.jpg",
         },
         {
           english: "Wine",
           polish: "Wino",
-          image: "/drinks/wine.jpg",
+          image: "/food/wine.jpg",
         },
       ],
     };

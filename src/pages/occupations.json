@@ -1,0 +1,107 @@
+[
+  {
+    "english": "Accountant",
+    "polish": "Księgowa",
+    "image": "/occupations/accountant.png"
+  },
+  {
+    "english": "Artist",
+    "polish": "Artysta",
+    "image": "/occupations/artist.png"
+  },
+  {
+    "english": "Author",
+    "polish": "Autor",
+    "image": "/occupations/author.png"
+  },
+  {
+    "english": "Baker",
+    "polish": "Piekarz",
+    "image": "/occupations/baker.png"
+  },
+  {
+    "english": "Builder",
+    "polish": "Budowniczy",
+    "image": "/occupations/builder.png"
+  },
+  {
+    "english": "Cab Driver",
+    "polish": "Taksówkarz",
+    "image": "/occupations/cabDriver.png"
+  },
+  {
+    "english": "Chef",
+    "polish": "Szef Kuchni",
+    "image": "/occupations/chef.png"
+  },
+  {
+    "english": "Dentist",
+    "polish": "Dentysta",
+    "image": "/occupations/dentist.png"
+  },
+  {
+    "english": "Fire Fighter",
+    "polish": "Strażak",
+    "image": "/occupations/firefighter.png"
+  },
+  {
+    "english": "Hairdresser",
+    "polish": "Fryzjer",
+    "image": "/occupations/hairdresser.png"
+  },
+  {
+    "english": "Janitor",
+    "polish": "Dozorca",
+    "image": "/occupations/janitor.png"
+  },
+  {
+    "english": "Journalist",
+    "polish": "Księgowa",
+    "image": "/occupations/journalist.png"
+  },
+  {
+    "english": "Lawyer",
+    "polish": "Fryzjer",
+    "image": "/occupations/lawyer.png"
+  },
+  {
+    "english": "Lecturer",
+    "polish": "Wykładowca",
+    "image": "/occupations/lecturer.png"
+  },
+  {
+    "english": "Nurse",
+    "polish": "Pielęgniarka",
+    "image": "/occupations/nurse.png"
+  },
+  {
+    "english": "Painter",
+    "polish": "Malarz",
+    "image": "/occupations/painter.png"
+  },
+  {
+    "english": "Programmer",
+    "polish": "Dozorca",
+    "image": "/occupations/programmer.png"
+  },
+  {
+    "english": "Police Officer",
+    "polish": "Policjant",
+    "image": "/occupations/policeOfficer.png"
+  },
+  {
+    "english": "Retired",
+    "polish": "Emerytowany",
+    "image": "/occupations/retired.png"
+  },
+  {
+    "english": "Teacher",
+    "polish": "Nauczyciel",
+    "image": "/occupations/teacher.png"
+  },
+  {
+    "english": "Veterinarian",
+    "polish": "Lekarz Weterynarii",
+    "image": "/occupations/veterinarian.png"
+  }
+]

@@ -1,190 +1,88 @@
 <template>
-  <q-page class="column">
-    <table class="q-table">
-      <thead>
-        <tr>
-          <th class="text-left">categories</th>
-          <th class="text-left">Tips</th>
-        </tr>
-      </thead>
-
-      <tbody>
-        <tr v-for="task in tasks" :key="task.letter" v-ripple>
-          <td class="text-left">{{ task.letter }}</td>
-          <td class="text-left">{{ task.tips }}</td>
-        </tr>
-      </tbody>
-    </table>
-  </q-page>
+  <div class="q-pa-md row items-start q-gutter-md">
+    <q-card v-for="home in dom" :key="home.english">
+      <q-img class="card-img" :src="home.image" />
+      <table class="q-table">
+        <!-- <q-item to="{{ colour.href }}" exact clickable> {{}} </q-item> this may be the link but doesn't quite work-->
+        <tbody>
+          <tr>
+            <td>{{ home.english }}</td>
+            <td>{{ home.polish }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </q-card>
+  </div>
 </template>
 <script>
 export default {
   data() {
     return {
-      tasks: [
+      dom: [
         {
-          letter: "Alphabet",
-          // tips: (src = "/animals/ant.jpg"),
+          english: "Alphabet",
+          polish: "Alfabet",
+          image: "/home/alphabet.jpg",
         },
         {
-          letter: "Ą ą",
-          tips: "Nasal o like in o in own",
+          english: "Animals",
+          polish: "Zwierzę",
+          image: "/home/animals.jpg",
         },
         {
-          letter: "B b",
-          tips: "beh",
+          english: "Colours",
+          polish: "Kolory",
+          image: "/home/colours.jpg",
         },
         {
-          letter: "C c",
-          tips: "tss-eh'",
+          english: "Drinks",
+          polish: "Napoje",
+          image: "/home/drinks.jpg",
         },
         {
-          letter: "Ć ć",
-          tips: "'ch' in cheap, but a bit softer",
+          english: "Food",
+          polish: "Jedzenie",
+          image: "/home/food.jpg",
         },
         {
-          letter: "D d",
-          tips: "'deh'",
+          english: "Hobbies",
+          polish: "Zainteresowania",
+          image: "/home/hobbies.jpg",
         },
         {
-          letter: "E e",
-          tips: "'e' in bed",
+          english: "Numbers",
+          polish: "Liczby",
+          image: "/home/numbers.jpg",
         },
         {
-          letter: "Ę ę",
-          tips: "Nasal e",
+          english: "Occupations",
+          polish: "Zawody",
+          image: "/home/occupations.jpg",
         },
         {
-          letter: "F f",
-          tips: "eff",
+          english: "People",
+          polish: "Ludzie",
+          image: "/home/people.jpg",
         },
         {
-          letter: "G g",
-          tips: "'g' in go",
+          english: "Time",
+          polish: "Czas",
+          image: "/home/time.jpg",
         },
         {
-          letter: "H h",
-          tips: "'h' in hammer",
+          english: "Transport",
+          polish: "Transport",
+          image: "/home/transport.jpg",
         },
         {
-          letter: "I i",
-          tips: "'ee' in meet",
+          english: "Verbs",
+          polish: "Czasowniki",
+          image: "/home/verbs.jpg",
         },
         {
-          letter: "J j",
-          tips: "'y' in yes",
-        },
-        {
-          letter: "K k",
-          tips: "Use this for the letter 'c'. Eg. Cat is Kot",
-        },
-        {
-          letter: "L l",
-          tips: "ell",
-        },
-        {
-          letter: "Ł ł",
-          tips: "Use this for W",
-        },
-        {
-          letter: "M m",
-          tips: "emm",
-        },
-        {
-          letter: "N n",
-          tips: "enn",
-        },
-        {
-          letter: "Ń ń",
-          tips: "onn",
-        },
-        {
-          letter: "O o",
-          tips: "'o' in long and sounds like 'oh' with emphasis on 'h'",
-        },
-        {
-          letter: "Ó ó",
-          tips: "'oo' in wood",
-        },
-        {
-          letter: "P p",
-          tips: "peh",
-        },
-        {
-          letter: "Q",
-          tips: "Not used",
-        },
-        {
-          letter: "R r",
-          tips: "the sound is 'trilled' r. Sounds like sounds like 'airrr'",
-        },
-        {
-          letter: "S s",
-          tips: "ess",
-        },
-        {
-          letter: "Ś ś",
-          tips: "'sh' in sheep, but softer",
-        },
-        {
-          letter: "T t",
-          tips: "teh",
-        },
-        {
-          letter: "U u",
-          tips: "'oo' in wood",
-        },
-        {
-          letter: "W w",
-          tips: "'v' in vow",
-        },
-        {
-          letter: "X x",
-          tips: "Not used",
-        },
-        {
-          letter: "Y y",
-          tips: "'i' in bit (very short). Pronounced 'igrek' when said alone",
-        },
-        {
-          letter: "Z z",
-          tips: "'z' in zoo",
-        },
-        {
-          letter: "Ź ź",
-          tips: "Somewhat like si in vision, but softer",
-        },
-        {
-          letter: "Ż ż",
-          tips: "Same as above but harder",
-        },
-        {
-          letter: "Ch",
-          tips: "'h'",
-        },
-        {
-          letter: "Cz",
-          tips: "'ch' sound. Arktyczna = ark-tich-na (arctic)'",
-        },
-        {
-          letter: "Dz",
-          tips: "Getting zapped by electricity 'dzz'. Kukurydza = cook-oor-ridz-ah (corn)",
-        },
-        {
-          letter: "Dź",
-          tips: "Similar to dz but softer. Niedźwiedź = Knee-air-jeh-vidch (bear)",
-        },
-        {
-          letter: "Dż",
-          tips: "A hard 'J' sound. Dżem = gem (jam)",
-        },
-        {
-          letter: "Rz",
-          tips: "Rzeka = rzz-ecka (river)",
-        },
-        {
-          letter: "sz",
-          tips: "Soft 'sh'. Mysz = mi-shh (mouse)",
+          english: "Weather",
+          polish: "Pogoda",
+          image: "/home/weather.jpg",
         },
       ],
     };

@@ -1,11 +1,11 @@
 <template>
   <div class="q-pa-md row items-start q-gutter-md">
-    <q-card v-for="colour in kolory" :key="colour.enlish">
+    <q-card v-for="colour in kolory" :key="colour.english">
       <q-img class="card-img" :src="colour.image" />
       <table class="q-table">
         <tbody>
           <tr>
-            <td>{{ colour.enlish }}</td>
+            <td>{{ colour.english }}</td>
             <td>{{ colour.polish }}</td>
           </tr>
         </tbody>
@@ -19,62 +19,62 @@ export default {
     return {
       kolory: [
         {
-          enlish: "Red",
+          english: "Red",
           polish: "Czerwony",
           image: "/colours/red.jpg",
         },
         {
-          enlish: "Orange",
+          english: "Orange",
           polish: "Pomarańczowy",
           image: "/colours/orange.jpg",
         },
         {
-          enlish: "Yellow",
+          english: "Yellow",
           polish: "Żółty",
           image: "/colours/yellow.jpg",
         },
         {
-          enlish: "Green",
+          english: "Green",
           polish: "Zielony",
           image: "/colours/green.jpg",
         },
         {
-          enlish: "Blue",
+          english: "Blue",
           polish: "niebieski",
           image: "/colours/blue.jpg",
         },
         {
-          enlish: "Purple",
+          english: "Purple",
           polish: "Purpurowy",
           image: "/colours/purple.jpg",
         },
         {
-          enlish: "Indigo",
+          english: "Indigo",
           polish: "Indygo",
           image: "/colours/indigo.jpg",
         },
         {
-          enlish: "Pink",
+          english: "Pink",
           polish: "Różowy",
           image: "/colours/pink.jpg",
         },
         {
-          enlish: "Silver",
+          english: "Silver",
           polish: "Srebro",
           image: "/colours/silver.jpg",
         },
         {
-          enlish: "Gold",
+          english: "Gold",
           polish: "Złoto",
           image: "/colours/gold.jpg",
         },
         {
-          enlish: "Black",
+          english: "Black",
           polish: "Czarny",
           image: "/colours/black.jpg",
         },
         {
-          enlish: "White",
+          english: "White",
           polish: "Biały",
           image: "/colours/white.jpg",
         },

@@ -11,7 +11,8 @@ const routes = [
       { path: '/drinks', component: () => import('src/pages/drinks.vue') },
       { path: '/food', component: () => import('src/pages/food.vue') },
       { path: '/hobbies', component: () => import('src/pages/hobbies.vue') },
-      { path: '/numbers', component: () => import('src/pages/numbers.vue') }
+      { path: '/numbers', component: () => import('src/pages/numbers.vue') },
+      { path: '/occupations', component: () => import('src/pages/occupations.vue') }
     ]
   },
 

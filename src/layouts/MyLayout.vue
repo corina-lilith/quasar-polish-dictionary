@@ -98,7 +98,7 @@
           <!--/Numbers-->
 
           <!--Occupations-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/occupations" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="work" />
             </q-item-section>

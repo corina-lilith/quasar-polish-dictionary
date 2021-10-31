@@ -1,0 +1,77 @@
+[
+  {
+    "english": "Boss",
+    "polish": "Szef",
+    "image": "/people/boss.png"
+  },
+  {
+    "english": "Boyfriend",
+    "polish": "Chłopak",
+    "image": "/people/boyfriend.png"
+  },
+  {
+    "english": "Brother",
+    "polish": "Brat",
+    "image": "/people/brother.png"
+  },
+  {
+    "english": "Colleague",
+    "polish": "Współpracownik",
+    "image": "/people/colleague.png"
+  },
+  {
+    "english": "Cousin",
+    "polish": "Kuzyn",
+    "image": "/people/cousin.png"
+  },
+  {
+    "english": "Enemy",
+    "polish": "Wróg",
+    "image": "/people/enemy.png"
+  },
+  {
+    "english": "Father",
+    "polish": "Ojciec",
+    "image": "/people/FATHER.png"
+  },
+  {
+    "english": "Friend",
+    "polish": "Przyjaciel",
+    "image": "/people/FRIEND.png"
+  },
+  {
+    "english": "Girlfriend",
+    "polish": "Dziewczyna",
+    "image": "/people/girlfriend.png"
+  },
+  {
+    "english": "Grandfather",
+    "polish": "Dziadek",
+    "image": "/people/grandfather.png"
+  },
+  {
+    "english": "Grandmother",
+    "polish": "Babcia",
+    "image": "/people/grandmother.png"
+  },
+  {
+    "english": "Husband",
+    "polish": "Mąż",
+    "image": "/people/husband.png"
+  },
+  {
+    "english": "Mother",
+    "polish": "Mama",
+    "image": "/people/mother.png"
+  },
+  {
+    "english": "Sister",
+    "polish": "Siostra",
+    "image": "/people/sister.png"
+  },
+  {
+    "english": "Wife",
+    "polish": "Żona",
+    "image": "/people/wife.png"
+  }
+]

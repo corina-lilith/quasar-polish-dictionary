@@ -107,7 +107,7 @@
           <!--/Occupations-->
 
           <!--People-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/people" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="groups" />
             </q-item-section>

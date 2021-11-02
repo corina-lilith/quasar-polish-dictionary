@@ -14,56 +14,11 @@
   </div>
 </template>
 <script>
+import drinksJson from "./drinks.json";
 export default {
   data() {
     return {
-      napoje: [
-        {
-          english: "Beer",
-          polish: "Piwo",
-          image: "/drinks/beer.jpg",
-        },
-        {
-          english: "Coffee",
-          polish: "Kawa",
-          image: "/drinks/coffee.jpg",
-        },
-        {
-          english: "Cola",
-          polish: "Cola",
-          image: "/drinks/cola.jpg",
-        },
-        {
-          english: "Juice",
-          polish: "Sok",
-          image: "/drinks/juice.jpg",
-        },
-        {
-          english: "Cocktail",
-          polish: "koktajl",
-          image: "/drinks/cocktail.jpg",
-        },
-        {
-          english: "Tea",
-          polish: "Herbata",
-          image: "/drinks/tea.jpg",
-        },
-        {
-          english: "Vodka",
-          polish: "Wódka",
-          image: "/drinks/vodka.jpg",
-        },
-        {
-          english: "Water",
-          polish: "Woda",
-          image: "/drinks/water.jpg",
-        },
-        {
-          english: "Wine",
-          polish: "Wino",
-          image: "/drinks/wine.jpg",
-        },
-      ],
+      napoje: drinksJson,
     };
   },
 };

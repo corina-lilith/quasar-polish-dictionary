@@ -1,0 +1,62 @@
+[
+  {
+    "english": "Red",
+    "polish": "Czerwony",
+    "image": "/colours/red.jpg"
+  },
+  {
+    "english": "Orange",
+    "polish": "Pomarańczowy",
+    "image": "/colours/orange.jpg"
+  },
+  {
+    "english": "Yellow",
+    "polish": "Żółty",
+    "image": "/colours/yellow.jpg"
+  },
+  {
+    "english": "Green",
+    "polish": "Zielony",
+    "image": "/colours/green.jpg"
+  },
+  {
+    "english": "Blue",
+    "polish": "niebieski",
+    "image": "/colours/blue.jpg"
+  },
+  {
+    "english": "Purple",
+    "polish": "Purpurowy",
+    "image": "/colours/purple.jpg"
+  },
+  {
+    "english": "Indigo",
+    "polish": "Indygo",
+    "image": "/colours/indigo.jpg"
+  },
+  {
+    "english": "Pink",
+    "polish": "Różowy",
+    "image": "/colours/pink.jpg"
+  },
+  {
+    "english": "Silver",
+    "polish": "Srebro",
+    "image": "/colours/silver.jpg"
+  },
+  {
+    "english": "Gold",
+    "polish": "Złoto",
+    "image": "/colours/gold.jpg"
+  },
+  {
+    "english": "Black",
+    "polish": "Czarny",
+    "image": "/colours/black.jpg"
+  },
+  {
+    "english": "White",
+    "polish": "Biały",
+    "image": "/colours/white.jpg"
+  }
+]

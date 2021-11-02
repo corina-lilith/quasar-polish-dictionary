@@ -1,0 +1,176 @@
+[
+  {
+    "numeral": "Jeden",
+    "age": "Lat",
+    "money": "Złoty",
+    "image": "/numbers/1.png"
+  },
+  {
+    "numeral": "Dwa",
+    "age": "Lata",
+    "money": "Złote",
+    "image": "/numbers/2.png"
+  },
+  {
+    "numeral": "Trzy",
+    "age": "Lata",
+    "money": "Złote",
+    "image": "/numbers/3.png"
+  },
+  {
+    "numeral": "Cztery",
+    "age": "Lata",
+    "money": "Złote",
+    "image": "/numbers/4.png"
+  },
+  {
+    "numeral": "Pięć",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/5.png"
+  },
+  {
+    "numeral": "Sześć",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/6.png"
+  },
+  {
+    "numeral": "Siedem",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/7.png"
+  },
+  {
+    "numeral": "Osiem",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/8.png"
+  },
+  {
+    "numeral": "Dziewięć",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/9.png"
+  },
+  {
+    "numeral": "Dziesięć",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/10.png"
+  },
+  {
+    "numeral": "Jedenaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/11.png"
+  },
+  {
+    "numeral": "Dwanaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/12.png"
+  },
+  {
+    "numeral": "Trzynaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/13.png"
+  },
+  {
+    "numeral": "Czternaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/14.png"
+  },
+  {
+    "numeral": "Piętnaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/15.png"
+  },
+  {
+    "numeral": "Szesnaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/16.png"
+  },
+  {
+    "numeral": "Siedemnaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/17.png"
+  },
+  {
+    "numeral": "Osiemnaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/18.png"
+  },
+  {
+    "numeral": "Dziewiętnaście",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/19.png"
+  },
+  {
+    "numeral": "Dwadzieścia",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/20.png"
+  },
+  {
+    "numeral": "N/A",
+    "age": "Lata",
+    "money": "Złote",
+    "image": "/numbers/rule.png"
+  },
+  {
+    "numeral": "Trzydzieści",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/30.png"
+  },
+  {
+    "numeral": "Czterdzieści",
+    "age": "Lata",
+    "money": "Złotych",
+    "image": "/numbers/40.png"
+  },
+  {
+    "numeral": "Pięćdziesiąt",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/50.png"
+  },
+  {
+    "numeral": "Sześćdziesiąt",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/60.png"
+  },
+  {
+    "numeral": "Siedemdziesiąt",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/70.png"
+  },
+  {
+    "numeral": "Osiemdziesiąt",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/80.png"
+  },
+  {
+    "numeral": "Dziewięćdziesiąt",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/90.png"
+  },
+  {
+    "numeral": "Sto",
+    "age": "Lat",
+    "money": "Złotych",
+    "image": "/numbers/100.png"
+  }
+]

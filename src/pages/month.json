@@ -1,0 +1,62 @@
+[
+  {
+    "month": "Styczeń",
+    "season": "Lato",
+    "image": "/time/months/jan.png"
+  },
+  {
+    "month": "Luty",
+    "season": "Lato",
+    "image": "/time/months/feb.png"
+  },
+  {
+    "month": "Marsz",
+    "season": "Jesień",
+    "image": "/time/months/march.png"
+  },
+  {
+    "month": "Kwiecień",
+    "season": "Jesień",
+    "image": "/time/months/april.png"
+  },
+  {
+    "month": "Może",
+    "season": "Jesień",
+    "image": "/time/months/may.png"
+  },
+  {
+    "month": "Czerwiec",
+    "season": "Zima",
+    "image": "/time/months/june.png"
+  },
+  {
+    "month": "Lipiec",
+    "season": "Zima",
+    "image": "/time/months/july.png"
+  },
+  {
+    "month": "Sierpień",
+    "season": "Zima",
+    "image": "/time/months/aug.png"
+  },
+  {
+    "month": "Wrzesień",
+    "season": "Wiosna",
+    "image": "/time/months/sept.png"
+  },
+  {
+    "month": "Październik",
+    "season": "Wiosna",
+    "image": "/time/months/oct.png"
+  },
+  {
+    "month": "Listopad",
+    "season": "Wiosna",
+    "image": "/time/months/nov.png"
+  },
+  {
+    "month": "Grudzień",
+    "season": "Lato",
+    "image": "/time/months/dec.png"
+  }
+]

@@ -13,7 +13,9 @@ const routes = [
       { path: '/hobbies', component: () => import('src/pages/hobbies.vue') },
       { path: '/numbers', component: () => import('src/pages/numbers.vue') },
       { path: '/occupations', component: () => import('src/pages/occupations.vue') },
-      { path: '/people', component: () => import('src/pages/people.vue') }
+      { path: '/people', component: () => import('src/pages/people.vue') },
+      { path: '/time', component: () => import('src/pages/time.vue') },
+      { path: '/months', component: () => import('src/pages/months.vue') }
 
     ]
   },

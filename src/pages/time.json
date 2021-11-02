@@ -1,0 +1,122 @@
+[
+  {
+    "now": "Pierwsza",
+    "when": "O Pierwszej",
+    "image": "/numbers/1.png"
+  },
+  {
+    "now": "Druga",
+    "when": "O Drugiej",
+    "image": "/numbers/2.png"
+  },
+  {
+    "now": "Trzecia",
+    "when": "O Trzeciej",
+    "image": "/numbers/3.png"
+  },
+  {
+    "now": "Czwarta",
+    "when": "O Czwartej",
+    "image": "/numbers/4.png"
+  },
+  {
+    "now": "Piąta",
+    "when": "O Piątej",
+    "image": "/numbers/5.png"
+  },
+  {
+    "now": "Szósta",
+    "when": "O Szóstej",
+    "image": "/numbers/6.png"
+  },
+  {
+    "now": "Siódma",
+    "when": "O Siódmej",
+    "image": "/numbers/7.png"
+  },
+  {
+    "now": "Ósma",
+    "when": "O Ósmej",
+    "image": "/numbers/8.png"
+  },
+  {
+    "now": "Dziewiąta",
+    "when": "O Dziewiątej",
+    "image": "/numbers/9.png"
+  },
+  {
+    "now": "Dziesiąta",
+    "when": "O Dziesiątej",
+    "image": "/numbers/10.png"
+  },
+  {
+    "now": "Jedenasta",
+    "when": "O Jedenastej",
+    "image": "/numbers/11.png"
+  },
+  {
+    "now": "Dwunasta",
+    "when": "O Dwunastej",
+    "image": "/numbers/12.png"
+  },
+  {
+    "now": "Trzynasta",
+    "when": "O Trzynastej",
+    "image": "/numbers/13.png"
+  },
+  {
+    "now": "Czternasta",
+    "when": "O Czternastej",
+    "image": "/numbers/14.png"
+  },
+  {
+    "now": "Piętnasta",
+    "when": "O Piętnastej",
+    "image": "/numbers/15.png"
+  },
+  {
+    "now": "Szesnasta",
+    "when": "O Szesnastej",
+    "image": "/numbers/16.png"
+  },
+  {
+    "now": "Siedemnasta",
+    "when": "O Siedemnastej",
+    "image": "/numbers/17.png"
+  },
+  {
+    "now": "Osiemnasta",
+    "when": "O Osiemnastej",
+    "image": "/numbers/18.png"
+  },
+  {
+    "now": "Dziewięnasta",
+    "when": "O Dziewięnastej",
+    "image": "/numbers/19.png"
+  },
+  {
+    "now": "Dwudziesta",
+    "when": "O Dwudziestej",
+    "image": "/numbers/20.png"
+  },
+  {
+    "now": "Dwudziesta Pierwsza",
+    "when": "O Dwudziestej Pierwszej",
+    "image": "/numbers/21.png"
+  },
+  {
+    "now": "Dwudziesta Druga",
+    "when": "O Dwudziestej Drugej",
+    "image": "/numbers/22.png"
+  },
+  {
+    "now": "Dwudziesta Trzecia",
+    "when": "O Dwudziestej Trzeciej",
+    "image": "/numbers/23.png"
+  },
+  {
+    "now": "Dwudziesta Czwarta",
+    "when": "O Dwudziestej Czwartej",
+    "image": "/numbers/24.png"
+  }
+]

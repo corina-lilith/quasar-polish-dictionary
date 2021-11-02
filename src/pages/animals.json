@@ -1,0 +1,107 @@
+[
+  {
+    "english": "Ant",
+    "polish": "Mrówka",
+    "image": "/animals/ant.jpg"
+  },
+  {
+    "english": "Bear",
+    "polish": "Niedźwiedź",
+    "image": "/animals/bear.jpg"
+  },
+  {
+    "english": "Bee",
+    "polish": "Pszczoła",
+    "image": "/animals/bee.jpg"
+  },
+  {
+    "english": "Bird",
+    "polish": "Ptak",
+    "image": "/animals/bird.jpg"
+  },
+  {
+    "english": "Butterfly",
+    "polish": "Motyl",
+    "image": "/animals/butterfly.jpg"
+  },
+  {
+    "english": "Camel",
+    "polish": "Wielbłąd",
+    "image": "/animals/camel.jpg"
+  },
+  {
+    "english": "Cat",
+    "polish": "Kot",
+    "image": "/animals/cat.jpg"
+  },
+  {
+    "english": "Cow",
+    "polish": "Krowa",
+    "image": "/animals/cow.jpg"
+  },
+  {
+    "english": "Dog",
+    "polish": "Pies",
+    "image": "/animals/dog.jpg"
+  },
+  {
+    "english": "Fish",
+    "polish": "Ryba",
+    "image": "/animals/fish.jpg"
+  },
+  {
+    "english": "Flamingo",
+    "polish": "Flaming",
+    "image": "/animals/flamingo.jpg"
+  },
+  {
+    "english": "Horse",
+    "polish": "Koń",
+    "image": "/animals/horse.jpg"
+  },
+  {
+    "english": "Lizard",
+    "polish": "Jaszczurka",
+    "image": "/animals/lizard.jpg"
+  },
+  {
+    "english": "Monkey",
+    "polish": "Małpa",
+    "image": "/animals/monkey.jpg"
+  },
+  {
+    "english": "Mouse",
+    "polish": "Mysz",
+    "image": "/animals/mouse.jpg"
+  },
+  {
+    "english": "Penguin",
+    "polish": "Pingwin",
+    "image": "/animals/penguin.jpg"
+  },
+  {
+    "english": "Pig",
+    "polish": "Świnia",
+    "image": "/animals/pig.jpg"
+  },
+  {
+    "english": "Rabbit",
+    "polish": "Królik",
+    "image": "/animals/rabbit.jpg"
+  },
+  {
+    "english": "Snake",
+    "polish": "Wąż",
+    "image": "/animals/snake.jpg"
+  },
+  {
+    "english": "Spider",
+    "polish": "Pająk",
+    "image": "/animals/spider.jpg"
+  },
+  {
+    "english": "Stag",
+    "polish": "Jeleń",
+    "image": "/animals/stag.jpg"
+  }
+]

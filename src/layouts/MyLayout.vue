@@ -125,7 +125,7 @@
           <!--/Time-->
 
           <!--Transport-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/transport" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="directions_car" />
             </q-item-section>

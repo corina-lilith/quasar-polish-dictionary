@@ -1,0 +1,72 @@
+[
+  {
+    "english": "Aeroplane",
+    "polish": "Samolot",
+    "image": "/transport/aeroplane.png"
+  },
+  {
+    "english": "Bicycle",
+    "polish": "Rower",
+    "image": "/transport/bike.png"
+  },
+  {
+    "english": "Boat",
+    "polish": "Łódź",
+    "image": "/transport/boat.png"
+  },
+  {
+    "english": "Bus",
+    "polish": "Autobus",
+    "image": "/transport/bus.png"
+  },
+  {
+    "english": "Car",
+    "polish": "Samochód",
+    "image": "/transport/car.png"
+  },
+  {
+    "english": "Motorbike",
+    "polish": "Motocykl",
+    "image": "/transport/motorbike.png"
+  },
+  {
+    "english": "Roller blades",
+    "polish": "Rolki",
+    "image": "/transport/rollerBlades.png"
+  },
+  {
+    "english": "Scooter",
+    "polish": "Skuter",
+    "image": "/transport/scooter.png"
+  },
+  {
+    "english": "Skateboard",
+    "polish": "Deskorolka",
+    "image": "/transport/skateboard.png"
+  },
+  {
+    "english": "Skis",
+    "polish": "Narty",
+    "image": "/transport/skis.png"
+  },
+  {
+    "english": "Taxi",
+    "polish": "Taxi",
+    "image": "/transport/taxi.png"
+  },
+  {
+    "english": "Train",
+    "polish": "Pociąg",
+    "image": "/transport/train.png"
+  },
+  {
+    "english": "Tram",
+    "polish": "Tramwajowy",
+    "image": "/transport/tram.png"
+  },
+  {
+    "english": "Walk",
+    "polish": "Spacerować",
+    "image": "/transport/walk.png"
+  }
+]

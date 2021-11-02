@@ -1,0 +1,37 @@
+[
+  {
+    "english": "Monday",
+    "polish": "Poniedziałek",
+    "image": "/time/days/mon.png"
+  },
+  {
+    "english": "Tuesday",
+    "polish": "Wtorek",
+    "image": "/time/days/tues.png"
+  },
+  {
+    "english": "Wednesday",
+    "polish": "Środa",
+    "image": "/time/days/wed.png"
+  },
+  {
+    "english": "Thursday",
+    "polish": "Czwartek",
+    "image": "/time/days/thurs.png"
+  },
+  {
+    "english": "Friday",
+    "polish": "Piątek",
+    "image": "/time/days/fri.png"
+  },
+  {
+    "english": "Saturday",
+    "polish": "Sobota",
+    "image": "/time/days/sat.png"
+  },
+  {
+    "english": "Sunday",
+    "polish": "Oniedziela",
+    "image": "/time/days/sun.png"
+  }
+]

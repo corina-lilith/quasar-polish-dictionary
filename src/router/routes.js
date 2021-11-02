@@ -15,7 +15,9 @@ const routes = [
       { path: '/occupations', component: () => import('src/pages/occupations.vue') },
       { path: '/people', component: () => import('src/pages/people.vue') },
       { path: '/time', component: () => import('src/pages/time.vue') },
-      { path: '/months', component: () => import('src/pages/months.vue') }
+      { path: '/months', component: () => import('src/pages/months.vue') },
+      { path: '/days', component: () => import('src/pages/days.vue') },
+      { path: '/transport', component: () => import('src/pages/transport.vue') }
 
     ]
   },

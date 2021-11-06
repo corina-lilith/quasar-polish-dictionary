@@ -1,0 +1,92 @@
+[
+  {
+    "english": "Chilly",
+    "polish": "Chłodno",
+    "image": "/weather/chilly.png"
+  },
+  {
+    "english": "Cloudy",
+    "polish": "Pochmurno",
+    "image": "/weather/cloudy.png"
+  },
+  {
+    "english": "Dry",
+    "polish": "Sucho",
+    "image": "/weather/dry.png"
+  },
+  {
+    "english": "Fog",
+    "polish": "Mgła",
+    "image": "/weather/fog.png"
+  },
+  {
+    "english": "Hail Fall",
+    "polish": "Padać Grad",
+    "image": "/weather/hail.png"
+  },
+  {
+    "english": "High Pressure",
+    "polish": "Wysokie Ciśnienie",
+    "image": "/weather/hp.png"
+  },
+  {
+    "english": "Hot",
+    "polish": "Gorąco",
+    "image": "/weather/hot.png"
+  },
+  {
+    "english": "Low Pressure",
+    "polish": "Niskie Ciśnienie",
+    "image": "/weather/lp.png"
+  },
+  {
+    "english": "Moist/Humid",
+    "polish": "Wilgotno",
+    "image": "/weather/humid.png"
+  },
+  {
+    "english": "Outside",
+    "polish": "Na Dworze",
+    "image": "/weather/outside.png"
+  },
+  {
+    "english": "Rainfall",
+    "polish": "Padać Deszcz",
+    "image": "/weather/rain.png"
+  },
+  {
+    "english": "Snowfall",
+    "polish": "Padać Śnieg",
+    "image": "/weather/snowfall.png"
+  },
+  {
+    "english": "Snow",
+    "polish": "Śnieg",
+    "image": "/weather/snow.png"
+  },
+  {
+    "english": "Steamy",
+    "polish": "Parno",
+    "image": "/weather/steamy.png"
+  },
+  {
+    "english": "Storm",
+    "polish": "Burza",
+    "image": "/weather/storm.png"
+  },
+  {
+    "english": "Warm",
+    "polish": "Ciepło",
+    "image": "/weather/warm.png"
+  },
+  {
+    "english": "Wet",
+    "polish": "Mokro",
+    "image": "/weather/wet.png"
+  },
+  {
+    "english": "Windy",
+    "polish": "Wiać Wiatr",
+    "image": "/weather/windy.png"
+  }
+]

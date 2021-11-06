@@ -141,6 +141,15 @@
             <q-item-section> Verbs </q-item-section>
           </q-item>
           <!--/Verbs-->
+
+          <!--Weather-->
+          <q-item to="/weather" exact clickable v-ripple>
+            <q-item-section avatar>
+              <q-icon name="cloud" />
+            </q-item-section>
+            <q-item-section> Weather </q-item-section>
+          </q-item>
+          <!--/Weather-->
         </q-list>
       </q-scroll-area>
 

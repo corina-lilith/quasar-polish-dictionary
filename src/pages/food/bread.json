@@ -1,56 +1,47 @@
 [
   {
-    "english": "Breads",
-    "polish": "Chleby",
-    "image": "/food/breads/bread.png",
-    "link": "/drinks"
+    "english": "Baguette",
+    "polish": "Bagietka",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Dairy",
-    "polish": "Mleczarnia",
-    "image": "/food/dairy/dairy.png",
-    "link": "/food/dairy"
+    "english": "Banana Bread",
+    "polish": "Bananowy Chleb",
+    "image": "/food/dairy/dairy.png"
   },
   {
-    "english": "Frozen Foods",
-    "polish": "Zamrożone jedzenie",
-    "image": "/food/frozen/frozen.png",
-    "link": "/food/frozen"
+    "english": "Bread Roll",
+    "polish": "Bułka",
+    "image": "/food/frozen/frozen.png"
   },
   {
-    "english": "Fruit and Veg",
-    "polish": "Owoce i Warzywa",
-    "image": "/food/FandV/FandV.png",
-    "link": "/food/FandV"
+    "english": "Loaf",
+    "polish": "Bochenek",
+    "image": "/food/frozen/frozen.png"
   },
   {
-    "english": "Grains",
-    "polish": "Ziarna",
-    "image": "/food/grains/grains.png",
-    "link": "/food/grains"
+    "english": "Multigrain",
+    "polish": "Chleb Pełnoziarnisty",
+    "image": "/food/FandV/FandV.png"
   },
   {
-    "english": "Herbs and Spices",
-    "polish": "Zioła i Przyprawy",
-    "image": "/food/HandS/HandS.png",
-    "link": "/food/HandS"
+    "english": "Pancakes",
+    "polish": "Naleśniki",
+    "image": "/food/FandV/FandV.png"
   },
   {
-    "english": "Meats",
-    "polish": "Mięsa",
-    "image": "/food/meats/meats.png",
-    "link": "/food/meats"
+    "english": "Pita",
+    "polish": "Pita",
+    "image": "/food/grains/grains.png"
   },
   {
-    "english": "Seafood",
-    "polish": "Owoce Morza",
-    "image": "/food/seafood/seafood.png",
-    "link": "/food/seafood"
+    "english": "Rye",
+    "polish": "Żyto",
+    "image": "/food/HandS/HandS.png"
   },
   {
-    "english": "Sweets",
-    "polish": "Słodycze",
-    "image": "/food/sweets/sweets.png",
-    "link": "/food/sweets"
+    "english": "Sourdough",
+    "polish": "Zakwas",
+    "image": "/food/meats/meats.png"
   }
 ]

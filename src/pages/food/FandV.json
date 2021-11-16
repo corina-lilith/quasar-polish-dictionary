@@ -1,0 +1,137 @@
+[
+  {
+    "english": "Apple",
+    "polish": "Jabłko",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Banana",
+    "polish": "Banan",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Beans",
+    "polish": "Fasolki",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Blueberry",
+    "polish": "Jagoda",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Broccoli",
+    "polish": "Brokuły",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Cabbage",
+    "polish": "Kapusta",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Carrot",
+    "polish": "Marchewka",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Cauliflower",
+    "polish": "Kalafior",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Cherry",
+    "polish": "Wiśnia",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Kiwi",
+    "polish": "Kiwi",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Lemon",
+    "polish": "Cytryna",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Lettuce",
+    "polish": "Sałata",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Lime",
+    "polish": "Limonka",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Mango",
+    "polish": "Mango",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Mushroom",
+    "polish": "Grzyb",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Onion",
+    "polish": "Cebula",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Orange",
+    "polish": "Pomarańcza",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Peach",
+    "polish": "Brzoskwinia",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Pear",
+    "polish": "Gruszka",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Plum",
+    "polish": "Śliwka",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Potato",
+    "polish": "Ziemniak",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Pumpkin",
+    "polish": "Dynia",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Raspberry",
+    "polish": "Malina",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Spinach",
+    "polish": "Szpinak",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Strawberry",
+    "polish": "Truskawka",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Tomato",
+    "polish": "Pomidor",
+    "image": "/food/FandV.png"
+  },
+  {
+    "english": "Watermelon",
+    "polish": "Arbuz",
+    "image": "/food/FandV.png"
+  }
+]

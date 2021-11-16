@@ -3,66 +3,78 @@
     "english": "Alphabet",
     "polish": "Alfabet",
     "image": "/home/alphabet.jpg",
-    "link": "https://stackoverflow.com"
+    "link": "/alphabet"
   },
   {
     "english": "Animals",
     "polish": "Zwierzę",
-    "image": "/home/animals.jpg"
+    "image": "/home/animals.jpg",
+    "link": "/animals"
   },
   {
     "english": "Colours",
     "polish": "Kolory",
-    "image": "/home/colours.jpg"
+    "image": "/home/colours.jpg",
+    "link": "/colours"
   },
   {
     "english": "Drinks",
     "polish": "Napoje",
-    "image": "/home/drinks.jpg"
+    "image": "/home/drinks.jpg",
+    "link": "/drinks"
   },
   {
     "english": "Food",
     "polish": "Jedzenie",
-    "image": "/home/food.jpg"
+    "image": "/home/food.jpg",
+    "link": "/food"
   },
   {
     "english": "Hobbies",
     "polish": "Zainteresowania",
-    "image": "/home/hobbies.jpg"
+    "image": "/home/hobbies.jpg",
+    "link": "/hobbies"
   },
   {
     "english": "Numbers",
     "polish": "Liczby",
-    "image": "/home/numbers.jpg"
+    "image": "/home/numbers.jpg",
+    "link": "/numbers"
   },
   {
     "english": "Occupations",
     "polish": "Zawody",
-    "image": "/home/occupations.jpg"
+    "image": "/home/occupations.jpg",
+    "link": "/occupations"
   },
   {
     "english": "People",
     "polish": "Ludzie",
-    "image": "/home/people.jpg"
+    "image": "/home/people.jpg",
+    "link": "/people"
   },
   {
     "english": "Time",
     "polish": "Czas",
-    "image": "/home/time.jpg"
+    "image": "/home/time.jpg",
+    "link": "/time"
   },
   {
     "english": "Transport",
     "polish": "Transport",
-    "image": "/home/transport.jpg"
+    "image": "/home/transport.jpg",
+    "link": "/transport"
   },
   {
     "english": "Verbs",
     "polish": "Czasowniki",
-    "image": "/home/verbs.jpg"
+    "image": "/home/verbs.jpg",
+    "link": "/verbs"
   },
   {
     "english": "Weather",
     "polish": "Pogoda",
-    "image": "/home/weather.jpg"
+    "image": "/home/weather.jpg",
+    "link": "/weather"
   }
 ]

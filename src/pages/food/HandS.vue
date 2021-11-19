@@ -1,12 +1,12 @@
 <template>
   <div class="q-pa-md row items-start q-gutter-md">
-    <q-card v-for="bread in chleb" :key="bread.english">
-      <q-img class="card-img" :src="bread.image" />
+    <q-card v-for="HandS in zioła" :key="HandS.english">
+      <q-img class="card-img" :src="HandS.image" />
       <table class="q-table">
         <tbody>
           <tr>
-            <td>{{ bread.english }}</td>
-            <td>{{ bread.polish }}</td>
+            <td>{{ HandS.english }}</td>
+            <td>{{ HandS.polish }}</td>
           </tr>
         </tbody>
       </table>
@@ -14,11 +14,11 @@
   </div>
 </template>
 <script>
-import breadJson from "./bread.json";
+import HandSJson from "./HandS.json";
 export default {
   data() {
     return {
-      chleb: breadJson,
+      zioła: HandSJson,
     };
   },
 };

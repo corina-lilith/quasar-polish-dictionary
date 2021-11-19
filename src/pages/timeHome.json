@@ -1,0 +1,20 @@
+[
+  {
+    "english": "Time - Numbers",
+    "polish": "Czas - Liczby",
+    "image": "/time/clock.png",
+    "link": "/time"
+  },
+  {
+    "english": "Days",
+    "polish": "Dni",
+    "image": "/time/week.png",
+    "link": "/days"
+  },
+  {
+    "english": "Months",
+    "polish": "Miesiące",
+    "image": "/time/calendar.png",
+    "link": "/months"
+  }
+]

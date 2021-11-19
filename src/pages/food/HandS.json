@@ -1,56 +1,47 @@
 [
   {
-    "english": "Breads",
-    "polish": "Chleby",
-    "image": "/food/breads/bread.png",
-    "link": "/drinks"
+    "english": "Basil",
+    "polish": "Bazylia",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Dairy",
-    "polish": "Mleczarnia",
-    "image": "/food/dairy/dairy.png",
-    "link": "/food/dairy"
+    "english": "Chilli",
+    "polish": "Chilli",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Frozen Foods",
-    "polish": "Zamrożone jedzenie",
-    "image": "/food/frozen/frozen.png",
-    "link": "/food/frozen"
+    "english": "Cinnamon",
+    "polish": "Cynamon",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Fruit and Veg",
-    "polish": "Owoce i Warzywa",
-    "image": "/food/FandV/FandV.png",
-    "link": "/food/FandV"
+    "english": "Dill",
+    "polish": "Koperek",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Grains",
-    "polish": "Ziarna",
-    "image": "/food/grains/grains.png",
-    "link": "/food/grains"
+    "english": "Garlic",
+    "polish": "Czosnek",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Herbs and Spices",
-    "polish": "Zioła i Przyprawy",
-    "image": "/food/HandS/HandS.png",
-    "link": "/food/HandS"
+    "english": "Pepper",
+    "polish": "Pieprz",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Meats",
-    "polish": "Mięsa",
-    "image": "/food/meats/meats.png",
-    "link": "/food/meats"
+    "english": "Rosemary",
+    "polish": "Rozmaryn",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Seafood",
-    "polish": "Owoce Morza",
-    "image": "/food/seafood/seafood.png",
-    "link": "/food/seafood"
+    "english": "Salt",
+    "polish": "Sól",
+    "image": "/food/FandV.png"
   },
   {
-    "english": "Sweets",
-    "polish": "Słodycze",
-    "image": "/food/sweets/sweets.png",
-    "link": "/food/sweets"
+    "english": "Vanilla",
+    "polish": "Wanilia",
+    "image": "/food/FandV.png"
   }
 ]

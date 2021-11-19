@@ -1,56 +1,32 @@
 [
   {
-    "english": "Breads",
-    "polish": "Chleby",
-    "image": "/food/breads/bread.png",
-    "link": "/drinks"
+    "english": "Chips",
+    "polish": "Frytki",
+    "image": "/food/frozen/fries.jpg"
   },
   {
-    "english": "Dairy",
-    "polish": "Mleczarnia",
-    "image": "/food/dairy/dairy.png",
-    "link": "/food/dairy"
+    "english": "Frozen Fish",
+    "polish": "Mrożona ryba",
+    "image": "/food/frozen/fish.png"
   },
   {
-    "english": "Frozen Foods",
-    "polish": "Zamrożone jedzenie",
-    "image": "/food/frozen/frozen.png",
-    "link": "/food/frozen"
+    "english": "Frozen Pies",
+    "polish": "Mrożone Ciasta",
+    "image": "/food/frozen/pie.png"
   },
   {
-    "english": "Fruit and Veg",
-    "polish": "Owoce i Warzywa",
-    "image": "/food/FandV/FandV.png",
-    "link": "/food/FandV"
+    "english": "Frozen Vegetables",
+    "polish": "Mrożone Warzywa",
+    "image": "/food/frozen/vegetables.jpg"
   },
   {
-    "english": "Grains",
-    "polish": "Ziarna",
-    "image": "/food/grains/grains.png",
-    "link": "/food/grains"
+    "english": "Ice",
+    "polish": "Lód",
+    "image": "/food/frozen/ice.png"
   },
   {
-    "english": "Herbs and Spices",
-    "polish": "Zioła i Przyprawy",
-    "image": "/food/HandS/HandS.png",
-    "link": "/food/HandS"
-  },
-  {
-    "english": "Meats",
-    "polish": "Mięsa",
-    "image": "/food/meats/meats.png",
-    "link": "/food/meats"
-  },
-  {
-    "english": "Seafood",
-    "polish": "Owoce Morza",
-    "image": "/food/seafood/seafood.png",
-    "link": "/food/seafood"
-  },
-  {
-    "english": "Sweets",
-    "polish": "Słodycze",
-    "image": "/food/sweets/sweets.png",
-    "link": "/food/sweets"
+    "english": "Icecream",
+    "polish": "Lód",
+    "image": "/food/frozen/icecream.png"
   }
 ]

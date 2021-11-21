@@ -1,56 +1,42 @@
 [
   {
-    "english": "Breads",
-    "polish": "Chleby",
-    "image": "/food/breads/bread.png",
-    "link": "/drinks"
+    "english": "Beef",
+    "polish": "Wołowina",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Dairy",
-    "polish": "Mleczarnia",
-    "image": "/food/dairy/dairy.png",
-    "link": "/food/dairy"
+    "english": "Chicken",
+    "polish": "Kurczak",
+    "image": "/food/dairy/dairy.png"
   },
   {
-    "english": "Frozen Foods",
-    "polish": "Zamrożone jedzenie",
-    "image": "/food/frozen/frozen.png",
-    "link": "/food/frozen"
+    "english": "Cold Cuts",
+    "polish": "Wędliny",
+    "image": "/food/frozen/frozen.png"
   },
   {
-    "english": "Fruit and Veg",
-    "polish": "Owoce i Warzywa",
-    "image": "/food/FandV/FandV.png",
-    "link": "/food/FandV"
+    "english": "Lamb",
+    "polish": "Owieczka",
+    "image": "/food/FandV/FandV.png"
   },
   {
-    "english": "Grains",
-    "polish": "Ziarna",
-    "image": "/food/grains/grains.png",
-    "link": "/food/grains"
-  },
-  {
-    "english": "Herbs and Spices",
-    "polish": "Zioła i Przyprawy",
-    "image": "/food/HandS/HandS.png",
-    "link": "/food/HandS"
-  },
-  {
-    "english": "Meats",
-    "polish": "Mięsa",
-    "image": "/food/meats/meats.png",
-    "link": "/food/meats"
+    "english": "Pork",
+    "polish": "Mięso Wieprzowe",
+    "image": "/food/grains/grains.png"
   },
   {
     "english": "Seafood",
     "polish": "Owoce Morza",
-    "image": "/food/seafood/seafood.png",
-    "link": "/food/seafood"
+    "image": "/food/HandS/HandS.png"
   },
   {
-    "english": "Sweets",
-    "polish": "Słodycze",
-    "image": "/food/sweets/sweets.png",
-    "link": "/food/sweets"
+    "english": "Steak",
+    "polish": "Stek",
+    "image": "/food/meats/meats.png"
+  },
+  {
+    "english": "Turkey",
+    "polish": "Mięso Indyka",
+    "image": "/food/seafood/seafood.png"
   }
 ]

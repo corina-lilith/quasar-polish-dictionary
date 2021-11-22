@@ -2,31 +2,31 @@
   {
     "english": "Butter",
     "polish": "Masło",
-    "image": "/food/breads/bread.png"
+    "image": "/food/dairy/butter.png"
   },
   {
     "english": "Cheese",
     "polish": "Ser",
-    "image": "/food/dairy/dairy.png"
+    "image": "/food/dairy/cheese.png"
   },
   {
     "english": "Cream",
     "polish": "Krem",
-    "image": "/food/frozen/frozen.png"
+    "image": "/food/dairy/cream.png"
   },
   {
     "english": "Milk",
     "polish": "Mleko",
-    "image": "/food/frozen/frozen.png"
+    "image": "/food/dairy/milk.png"
   },
   {
     "english": "Sour Cream",
     "polish": "Kwaśna śmietana",
-    "image": "/food/FandV/FandV.png"
+    "image": "/food/dairy/sour_cream.png"
   },
   {
     "english": "Yougurt",
     "polish": "Jogurt",
-    "image": "/food/FandV/FandV.png"
+    "image": "/food/dairy/yogurt.png"
   }
 ]

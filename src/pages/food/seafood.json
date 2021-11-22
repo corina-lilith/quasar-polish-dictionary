@@ -1,56 +1,37 @@
 [
   {
-    "english": "Breads",
-    "polish": "Chleby",
-    "image": "/food/breads/bread.png",
-    "link": "/drinks"
+    "english": "Crab",
+    "polish": "Krab",
+    "image": "/food/seafood/crab.png"
   },
   {
-    "english": "Dairy",
-    "polish": "Mleczarnia",
-    "image": "/food/dairy/dairy.png",
-    "link": "/food/dairy"
+    "english": "Fish",
+    "polish": "Ryba",
+    "image": "/food/seafood/fish.png"
   },
   {
-    "english": "Frozen Foods",
-    "polish": "Zamrożone jedzenie",
-    "image": "/food/frozen/frozen.png",
-    "link": "/food/frozen"
+    "english": "Lobster",
+    "polish": "Homar",
+    "image": "/food/seafood/lobster.png"
   },
   {
-    "english": "Fruit and Veg",
-    "polish": "Owoce i Warzywa",
-    "image": "/food/FandV/FandV.png",
-    "link": "/food/FandV"
+    "english": "Octopus",
+    "polish": "Ośmiornica",
+    "image": "/food/seafood/octopus.png"
   },
   {
-    "english": "Grains",
-    "polish": "Ziarna",
-    "image": "/food/grains/grains.png",
-    "link": "/food/grains"
+    "english": "Oyster",
+    "polish": "Ostrygi",
+    "image": "/food/seafood/oyster.png"
   },
   {
-    "english": "Herbs and Spices",
-    "polish": "Zioła i Przyprawy",
-    "image": "/food/HandS/HandS.png",
-    "link": "/food/HandS"
+    "english": "Prawns",
+    "polish": "Krewetki",
+    "image": "/food/seafood/prawns.png"
   },
   {
-    "english": "Meats",
-    "polish": "Mięsa",
-    "image": "/food/meats/meats.png",
-    "link": "/food/meats"
-  },
-  {
-    "english": "Seafood",
-    "polish": "Owoce Morza",
-    "image": "/food/seafood/seafood.png",
-    "link": "/food/seafood"
-  },
-  {
-    "english": "Sweets",
-    "polish": "Słodycze",
-    "image": "/food/sweets/sweets.png",
-    "link": "/food/sweets"
+    "english": "Squid",
+    "polish": "Kałamarnica",
+    "image": "/food/seafood/squid.png"
   }
 ]

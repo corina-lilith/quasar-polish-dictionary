@@ -2,46 +2,46 @@
   {
     "english": "Basil",
     "polish": "Bazylia",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/basil.png"
   },
   {
     "english": "Chilli",
     "polish": "Chilli",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/chilli.png"
   },
   {
     "english": "Cinnamon",
     "polish": "Cynamon",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/cinnamon.png"
   },
   {
     "english": "Dill",
     "polish": "Koperek",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/dill.png"
   },
   {
     "english": "Garlic",
     "polish": "Czosnek",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/garlic.png"
   },
   {
     "english": "Pepper",
     "polish": "Pieprz",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/pepper.png"
   },
   {
     "english": "Rosemary",
     "polish": "Rozmaryn",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/rosemary.png"
   },
   {
     "english": "Salt",
     "polish": "Sól",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/salt.png"
   },
   {
     "english": "Vanilla",
     "polish": "Wanilia",
-    "image": "/food/FandV.png"
+    "image": "/food/HandS/vanilla.png"
   }
 ]

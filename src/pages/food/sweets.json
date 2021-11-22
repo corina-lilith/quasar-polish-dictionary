@@ -1,56 +1,62 @@
 [
   {
-    "english": "Breads",
-    "polish": "Chleby",
-    "image": "/food/breads/bread.png",
-    "link": "/drinks"
+    "english": "Apple Pie",
+    "polish": "Szarlotka",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Dairy",
-    "polish": "Mleczarnia",
-    "image": "/food/dairy/dairy.png",
-    "link": "/food/dairy"
+    "english": "Biscuits",
+    "polish": "Biszkopty",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Frozen Foods",
-    "polish": "Zamrożone jedzenie",
-    "image": "/food/frozen/frozen.png",
-    "link": "/food/frozen"
+    "english": "Brownies",
+    "polish": "Ciasteczka",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Fruit and Veg",
-    "polish": "Owoce i Warzywa",
-    "image": "/food/FandV/FandV.png",
-    "link": "/food/FandV"
+    "english": "Cake",
+    "polish": "Ciasto",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Grains",
-    "polish": "Ziarna",
-    "image": "/food/grains/grains.png",
-    "link": "/food/grains"
+    "english": "Candy",
+    "polish": "Cukierek",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Herbs and Spices",
-    "polish": "Zioła i Przyprawy",
-    "image": "/food/HandS/HandS.png",
-    "link": "/food/HandS"
+    "english": "Cheesecake",
+    "polish": "Sernik",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Meats",
-    "polish": "Mięsa",
-    "image": "/food/meats/meats.png",
-    "link": "/food/meats"
+    "english": "Cookies",
+    "polish": "Ciasteczka",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Seafood",
-    "polish": "Owoce Morza",
-    "image": "/food/seafood/seafood.png",
-    "link": "/food/seafood"
+    "english": "Crisps",
+    "polish": "Chipsy",
+    "image": "/food/breads/bread.png"
   },
   {
-    "english": "Sweets",
-    "polish": "Słodycze",
-    "image": "/food/sweets/sweets.png",
-    "link": "/food/sweets"
+    "english": "Cupcakes",
+    "polish": "Babeczki",
+    "image": "/food/breads/bread.png"
+  },
+  {
+    "english": "Donuts",
+    "polish": "Pączki",
+    "image": "/food/breads/bread.png"
+  },
+  {
+    "english": "Fudge",
+    "polish": "Banialuki",
+    "image": "/food/breads/bread.png"
+  },
+  {
+    "english": "Icecream",
+    "polish": "Lody",
+    "image": "/food/breads/bread.png"
   }
 ]

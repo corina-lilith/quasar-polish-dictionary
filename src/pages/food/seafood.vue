@@ -1,4 +1,11 @@
 <template>
+  <div class="q-pa-md q-gutter-sm">
+    <q-breadcrumbs>
+      <q-breadcrumbs-el label="Home" to="/" />
+      <q-breadcrumbs-el label="Food" to="/food" />
+      <q-breadcrumbs-el label="Seafood - Morza" />
+    </q-breadcrumbs>
+  </div>
   <div class="q-pa-md row items-start q-gutter-md">
     <q-card v-for="seafood in morza" :key="seafood.english">
       <q-img class="card-img" :src="seafood.image" />

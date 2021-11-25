@@ -1,4 +1,11 @@
 <template>
+  <div class="q-pa-md q-gutter-sm">
+    <q-breadcrumbs>
+      <q-breadcrumbs-el label="Home" to="/" />
+      <q-breadcrumbs-el label="Time" to="/timeHome" />
+      <q-breadcrumbs-el label="Days - Dni" />
+    </q-breadcrumbs>
+  </div>
   <div class="q-pa-md row items-start q-gutter-md">
     <q-card v-for="days in dni" :key="days.now">
       <q-img class="card-img" :src="days.image" />

@@ -2,31 +2,31 @@
   {
     "english": "Barley",
     "polish": "Jęczmień",
-    "image": "/food/breads/bread.png"
+    "image": "/food/grains/barley.png"
   },
   {
     "english": "Buckwheat",
     "polish": "Gryka",
-    "image": "/food/dairy/dairy.png"
+    "image": "/food/grains/buckwheat.png"
   },
   {
     "english": "Corn",
     "polish": "Kukurydza",
-    "image": "/food/frozen/frozen.png"
+    "image": "/food/grains/corn.png"
   },
   {
     "english": "Oats",
     "polish": "Owies",
-    "image": "/food/FandV/FandV.png"
+    "image": "/food/grains/oats.png"
   },
   {
     "english": "Rice",
     "polish": "Ryż",
-    "image": "/food/grains/grains.png"
+    "image": "/food/grains/rice.png"
   },
   {
     "english": "Wheat",
     "polish": "Pszenica",
-    "image": "/food/HandS/HandS.png"
+    "image": "/food/grains/wheat.png"
   }
 ]

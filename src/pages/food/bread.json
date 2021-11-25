@@ -2,46 +2,46 @@
   {
     "english": "Baguette",
     "polish": "Bagietka",
-    "image": "/food/breads/bread.png"
+    "image": "/food/breads/baguette.png"
   },
   {
     "english": "Banana Bread",
     "polish": "Bananowy Chleb",
-    "image": "/food/dairy/dairy.png"
+    "image": "/food/breads/banana-bread.png"
   },
   {
     "english": "Bread Roll",
     "polish": "Bułka",
-    "image": "/food/frozen/frozen.png"
+    "image": "/food/breads/breadroll.png"
   },
   {
     "english": "Loaf",
     "polish": "Bochenek",
-    "image": "/food/frozen/frozen.png"
+    "image": "/food/breads/loaf.png"
   },
   {
     "english": "Multigrain",
     "polish": "Chleb Pełnoziarnisty",
-    "image": "/food/FandV/FandV.png"
+    "image": "/food/breads/bread.png"
   },
   {
     "english": "Pancakes",
     "polish": "Naleśniki",
-    "image": "/food/FandV/FandV.png"
+    "image": "/food/breads/bread.png"
   },
   {
     "english": "Pita",
     "polish": "Pita",
-    "image": "/food/grains/grains.png"
+    "image": "/food/breads/bread.png"
   },
   {
     "english": "Rye",
     "polish": "Żyto",
-    "image": "/food/HandS/HandS.png"
+    "image": "/food/breads/bread.png"
   },
   {
     "english": "Sourdough",
     "polish": "Zakwas",
-    "image": "/food/meats/meats.png"
+    "image": "/food/breads/bread.png"
   }
 ]

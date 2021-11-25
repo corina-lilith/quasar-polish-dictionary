@@ -2,41 +2,36 @@
   {
     "english": "Beef",
     "polish": "Wołowina",
-    "image": "/food/breads/bread.png"
+    "image": "/food/meats/beef.png"
   },
   {
     "english": "Chicken",
     "polish": "Kurczak",
-    "image": "/food/dairy/dairy.png"
+    "image": "/food/meats/chicken.png"
   },
   {
     "english": "Cold Cuts",
     "polish": "Wędliny",
-    "image": "/food/frozen/frozen.png"
+    "image": "/food/meats/cold-cuts.png"
   },
   {
     "english": "Lamb",
     "polish": "Owieczka",
-    "image": "/food/FandV/FandV.png"
+    "image": "/food/meats/lamb.png"
   },
   {
     "english": "Pork",
     "polish": "Mięso Wieprzowe",
-    "image": "/food/grains/grains.png"
+    "image": "/food/meats/pork.png"
   },
   {
     "english": "Seafood",
     "polish": "Owoce Morza",
-    "image": "/food/HandS/HandS.png"
-  },
-  {
-    "english": "Steak",
-    "polish": "Stek",
-    "image": "/food/meats/meats.png"
+    "image": "/food/meats/seafood.png"
   },
   {
     "english": "Turkey",
     "polish": "Mięso Indyka",
-    "image": "/food/seafood/seafood.png"
+    "image": "/food/meats/turkey.png"
   }
 ]

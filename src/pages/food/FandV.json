@@ -2,52 +2,52 @@
   {
     "english": "Apple",
     "polish": "Jabłko",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/apple.png"
   },
   {
     "english": "Banana",
     "polish": "Banan",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/banana.png"
   },
   {
     "english": "Beans",
     "polish": "Fasolki",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/beans.png"
   },
   {
     "english": "Blueberry",
     "polish": "Jagoda",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/blueberry.png"
   },
   {
     "english": "Broccoli",
     "polish": "Brokuły",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/broccoli.png"
   },
   {
     "english": "Cabbage",
     "polish": "Kapusta",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/cabbage.png"
   },
   {
     "english": "Carrot",
     "polish": "Marchewka",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/carrot.png"
   },
   {
     "english": "Cauliflower",
     "polish": "Kalafior",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/cauliflower.png"
   },
   {
     "english": "Cherry",
     "polish": "Wiśnia",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/cherry.png"
   },
   {
     "english": "Kiwi",
     "polish": "Kiwi",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/kiwi.png"
   },
   {
     "english": "Lemon",
@@ -57,7 +57,7 @@
   {
     "english": "Lettuce",
     "polish": "Sałata",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/lettuce.png"
   },
   {
     "english": "Lime",
@@ -67,42 +67,42 @@
   {
     "english": "Mango",
     "polish": "Mango",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/mango.png"
   },
   {
     "english": "Mushroom",
     "polish": "Grzyb",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/mushroom.png"
   },
   {
     "english": "Onion",
     "polish": "Cebula",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/onion.png"
   },
   {
     "english": "Orange",
     "polish": "Pomarańcza",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/orange.png"
   },
   {
     "english": "Peach",
     "polish": "Brzoskwinia",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/peach.png"
   },
   {
     "english": "Pear",
     "polish": "Gruszka",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/pear.png"
   },
   {
     "english": "Plum",
     "polish": "Śliwka",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/plum.png"
   },
   {
     "english": "Potato",
     "polish": "Ziemniak",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/potato.png"
   },
   {
     "english": "Pumpkin",
@@ -112,26 +112,26 @@
   {
     "english": "Raspberry",
     "polish": "Malina",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/raspberry.png"
   },
   {
     "english": "Spinach",
     "polish": "Szpinak",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/spinach.png"
   },
   {
     "english": "Strawberry",
     "polish": "Truskawka",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/strawberry.png"
   },
   {
     "english": "Tomato",
     "polish": "Pomidor",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/tomato.png"
   },
   {
     "english": "Watermelon",
     "polish": "Arbuz",
-    "image": "/food/FandV/.png"
+    "image": "/food/FandV/watermelon.png"
   }
 ]

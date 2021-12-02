@@ -2,61 +2,61 @@
   {
     "english": "Apple Pie",
     "polish": "Szarlotka",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/apple-pie.png"
   },
   {
     "english": "Biscuits",
     "polish": "Biszkopty",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/biscuit.png"
   },
   {
     "english": "Brownies",
     "polish": "Ciasteczka",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/brownies.png"
   },
   {
     "english": "Cake",
     "polish": "Ciasto",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/cake.png"
   },
   {
     "english": "Candy",
     "polish": "Cukierek",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/candy.png"
   },
   {
     "english": "Cheesecake",
     "polish": "Sernik",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/cheesecake.png"
   },
   {
     "english": "Cookies",
     "polish": "Ciasteczka",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/cookies.png"
   },
   {
     "english": "Crisps",
     "polish": "Chipsy",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/crisps.png"
   },
   {
-    "english": "Cupcakes",
-    "polish": "Babeczki",
-    "image": "/food/breads/bread.png"
+    "english": "Cupcake",
+    "polish": "Babeczka",
+    "image": "/food/sweets/cupcake.png"
   },
   {
     "english": "Donuts",
     "polish": "Pączki",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/donut.png"
   },
   {
     "english": "Fudge",
     "polish": "Banialuki",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/fudge.png"
   },
   {
     "english": "Icecream",
     "polish": "Lody",
-    "image": "/food/breads/bread.png"
+    "image": "/food/sweets/icecream.png"
   }
 ]

@@ -20,13 +20,13 @@
   {
     "english": "Drinks",
     "polish": "Napoje",
-    "image": "/home/drinks.jpg",
+    "image": "/home/drinks.png",
     "link": "/drinks"
   },
   {
     "english": "Food",
     "polish": "Jedzenie",
-    "image": "/home/food.jpg",
+    "image": "/home/food.png",
     "link": "/food"
   },
   {
@@ -56,7 +56,7 @@
   {
     "english": "Time",
     "polish": "Czas",
-    "image": "/home/time.jpg",
+    "image": "/home/time.png",
     "link": "/time"
   },
   {
@@ -74,7 +74,7 @@
   {
     "english": "Weather",
     "polish": "Pogoda",
-    "image": "/home/weather.jpg",
+    "image": "/home/weather.png",
     "link": "/weather"
   }
 ]

@@ -7,14 +7,6 @@
       <div class="q-px-lg q-pt-xl q-mb-md">
         <div class="text-h3">Słownik</div>
         <div class="text-subtitle1">{{ todaysDate }}</div>
-        <!-- <div class="topnav">
-          <div class="search-container">
-            <form action="/action_page.php">
-              <input type="text" placeholder="Search.." name="search" />
-              <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-          </div>
-        </div> -->
       </div>
       <q-img src="flag-poland.png" class="header-image absolute-top" />
     </q-header>

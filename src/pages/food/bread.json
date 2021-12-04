@@ -22,26 +22,26 @@
   {
     "english": "Multigrain",
     "polish": "Chleb Pełnoziarnisty",
-    "image": "/food/breads/bread.png"
+    "image": "/food/breads/multigrain.png"
   },
   {
     "english": "Pancakes",
     "polish": "Naleśniki",
-    "image": "/food/breads/bread.png"
+    "image": "/food/breads/pancakes.png"
   },
   {
     "english": "Pita",
     "polish": "Pita",
-    "image": "/food/breads/bread.png"
+    "image": "/food/breads/pita.png"
   },
   {
     "english": "Rye",
     "polish": "Żyto",
-    "image": "/food/breads/bread.png"
+    "image": "/food/breads/rye.png"
   },
   {
     "english": "Sourdough",
     "polish": "Zakwas",
-    "image": "/food/breads/bread.png"
+    "image": "/food/breads/sourdough.png"
   }
 ]

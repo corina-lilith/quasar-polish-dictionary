@@ -2,17 +2,17 @@
   {
     "english": "Ant",
     "polish": "Mrówka",
-    "image": "/animals/ant.jpg"
+    "image": "/animals/ant.png"
   },
   {
     "english": "Bear",
     "polish": "Niedźwiedź",
-    "image": "/animals/bear.jpg"
+    "image": "/animals/bear.png"
   },
   {
     "english": "Bee",
     "polish": "Pszczoła",
-    "image": "/animals/bee.jpg"
+    "image": "/animals/bee.png"
   },
   {
     "english": "Bird",

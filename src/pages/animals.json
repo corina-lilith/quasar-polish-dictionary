@@ -17,17 +17,17 @@
   {
     "english": "Bird",
     "polish": "Ptak",
-    "image": "/animals/bird.jpg"
+    "image": "/animals/bird.png"
   },
   {
     "english": "Butterfly",
     "polish": "Motyl",
-    "image": "/animals/butterfly.jpg"
+    "image": "/animals/butterfly.png"
   },
   {
     "english": "Camel",
     "polish": "Wielbłąd",
-    "image": "/animals/camel.jpg"
+    "image": "/animals/camel.png"
   },
   {
     "english": "Cat",

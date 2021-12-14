@@ -32,22 +32,22 @@
   {
     "english": "Cat",
     "polish": "Kot",
-    "image": "/animals/cat.jpg"
+    "image": "/animals/cat.png"
   },
   {
     "english": "Cow",
     "polish": "Krowa",
-    "image": "/animals/cow.jpg"
+    "image": "/animals/cow.png"
   },
   {
     "english": "Dog",
     "polish": "Pies",
-    "image": "/animals/dog.jpg"
+    "image": "/animals/dog.png"
   },
   {
     "english": "Fish",
     "polish": "Ryba",
-    "image": "/animals/fish.jpg"
+    "image": "/animals/fish.png"
   },
   {
     "english": "Flamingo",

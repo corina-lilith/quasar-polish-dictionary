@@ -52,27 +52,27 @@
   {
     "english": "Flamingo",
     "polish": "Flaming",
-    "image": "/animals/flamingo.jpg"
+    "image": "/animals/flamingo.png"
   },
   {
     "english": "Horse",
     "polish": "Koń",
-    "image": "/animals/horse.jpg"
+    "image": "/animals/horse.png"
   },
   {
     "english": "Lizard",
     "polish": "Jaszczurka",
-    "image": "/animals/lizard.jpg"
+    "image": "/animals/lizard.png"
   },
   {
     "english": "Monkey",
     "polish": "Małpa",
-    "image": "/animals/monkey.jpg"
+    "image": "/animals/monkey.png"
   },
   {
     "english": "Mouse",
     "polish": "Mysz",
-    "image": "/animals/mouse.jpg"
+    "image": "/animals/mouse.png"
   },
   {
     "english": "Penguin",

@@ -77,17 +77,17 @@
   {
     "english": "Penguin",
     "polish": "Pingwin",
-    "image": "/animals/penguin.jpg"
+    "image": "/animals/penguin.png"
   },
   {
     "english": "Pig",
     "polish": "Świnia",
-    "image": "/animals/pig.jpg"
+    "image": "/animals/pig.png"
   },
   {
     "english": "Rabbit",
     "polish": "Królik",
-    "image": "/animals/rabbit.jpg"
+    "image": "/animals/rabbit.png"
   },
   {
     "english": "Snake",

@@ -92,16 +92,16 @@
   {
     "english": "Snake",
     "polish": "Wąż",
-    "image": "/animals/snake.jpg"
+    "image": "/animals/snake.png"
   },
   {
     "english": "Spider",
     "polish": "Pająk",
-    "image": "/animals/spider.jpg"
+    "image": "/animals/spider.png"
   },
   {
     "english": "Stag",
     "polish": "Jeleń",
-    "image": "/animals/stag.jpg"
+    "image": "/animals/stag.png"
   }
 ]

@@ -2,19 +2,19 @@
   {
     "english": "Alphabet",
     "polish": "Alfabet",
-    "image": "/home/alphabet.jpg",
+    "image": "/home/alphabet.png",
     "link": "/alphabet"
   },
   {
     "english": "Animals",
     "polish": "Zwierzę",
-    "image": "/home/animals.jpg",
+    "image": "/home/animals.png",
     "link": "/animals"
   },
   {
     "english": "Colours",
     "polish": "Kolory",
-    "image": "/home/colours.jpg",
+    "image": "/home/colours.png",
     "link": "/colours"
   },
   {
@@ -38,7 +38,7 @@
   {
     "english": "Numbers",
     "polish": "Liczby",
-    "image": "/home/numbers.jpg",
+    "image": "/home/numbers.png",
     "link": "/numbers"
   },
   {

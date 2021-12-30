@@ -32,7 +32,7 @@
   {
     "english": "Hiking",
     "polish": "Wędrówki",
-    "image": "/hobbies/hiking.jpg"
+    "image": "/hobbies/hiking.png"
   },
   {
     "english": "Knitting",
@@ -87,6 +87,6 @@
   {
     "english": "Walking",
     "polish": "Pieszy",
-    "image": "/hobbies/walking.jpg"
+    "image": "/transport/walk.png"
   }
 ]

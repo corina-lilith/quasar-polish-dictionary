@@ -12,22 +12,22 @@
   {
     "english": "Dance",
     "polish": "Taniec",
-    "image": "/hobbies/dance.jpg"
+    "image": "/hobbies/dance.png"
   },
   {
     "english": "Football",
     "polish": "Piłka Nożna",
-    "image": "/hobbies/football.jpg"
+    "image": "/hobbies/football.png"
   },
   {
     "english": "Gym",
     "polish": "Siłownia",
-    "image": "/hobbies/gym.jpg"
+    "image": "/hobbies/gym.png"
   },
   {
     "english": "Gymnastics",
     "polish": "Gimnastyka",
-    "image": "/hobbies/gymnastics.jpg"
+    "image": "/hobbies/gymnastics.png"
   },
   {
     "english": "Hiking",
@@ -37,52 +37,52 @@
   {
     "english": "Knitting",
     "polish": "Robienie Na Drutach",
-    "image": "/hobbies/knitting.jpg"
+    "image": "/hobbies/knitting.png"
   },
   {
     "english": "Netball",
     "polish": "Siatkówka",
-    "image": "/hobbies/netball.jpg"
+    "image": "/hobbies/netball.png"
   },
   {
     "english": "Painting",
     "polish": "Obraz",
-    "image": "/hobbies/painting.jpg"
+    "image": "/hobbies/painting.png"
   },
   {
     "english": "Photography",
     "polish": "Fotografia",
-    "image": "/hobbies/photography.jpg"
+    "image": "/hobbies/photography.png"
   },
   {
     "english": "Reading",
     "polish": "Czytanie",
-    "image": "/hobbies/reading.jpg"
+    "image": "/hobbies/reading.png"
   },
   {
     "english": "Shopping",
     "polish": "Zakupy",
-    "image": "/hobbies/shopping.jpg"
+    "image": "/hobbies/shopping.png"
   },
   {
     "english": "Sing",
     "polish": "Śpiewać",
-    "image": "/hobbies/sing.jpg"
+    "image": "/hobbies/sing.png"
   },
   {
     "english": "Skiing",
     "polish": "Narciarstwo",
-    "image": "/hobbies/skiing.jpg"
+    "image": "/transport/skis.png"
   },
   {
     "english": "Soccer",
     "polish": "Piłka Nożna",
-    "image": "/hobbies/soccer.jpg"
+    "image": "/hobbies/soccer.png"
   },
   {
     "english": "Swimming",
     "polish": "Pływanie",
-    "image": "/hobbies/swimming.jpg"
+    "image": "/hobbies/swimming.png"
   },
   {
     "english": "Walking",

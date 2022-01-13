@@ -1,107 +1,128 @@
 [
   {
     "english": "Accountant",
-    "polish": "Księgowa",
+    "MPolish": "Księgowy",
+    "FPolish": "Księgowka",
     "image": "/occupations/accountant.png"
   },
   {
     "english": "Artist",
-    "polish": "Artysta",
+    "MPolish": "Artysta",
+    "FPolish": "Artystka",
     "image": "/occupations/artist.png"
   },
   {
     "english": "Author",
-    "polish": "Autor",
+    "MPolish": "Autor",
+    "FPolish": "Autorka",
     "image": "/occupations/author.png"
   },
   {
     "english": "Baker",
-    "polish": "Piekarz",
+    "MPolish": "Piekarz",
+    "FPolish": "Piekkarka",
     "image": "/occupations/baker.png"
   },
   {
-    "english": "Builder",
-    "polish": "Budowniczy",
-    "image": "/occupations/builder.png"
+    "english": "Barman",
+    "MPolish": "Barman",
+    "FPolish": "Barmanka",
+    "image": "/occupations/barman.png"
   },
   {
     "english": "Cab Driver",
-    "polish": "Taksówkarz",
+    "MPolish": "Taksówkarz",
+    "FPolish": "Taksówka",
     "image": "/occupations/cabDriver.png"
   },
   {
     "english": "Chef",
-    "polish": "Szef Kuchni",
+    "MPolish": "Szef Kuchni",
+    "FPolish": "this",
     "image": "/occupations/chef.png"
   },
   {
     "english": "Dentist",
-    "polish": "Dentysta",
+    "MPolish": "Dentysta",
+    "FPolish": "Dentystka",
     "image": "/occupations/dentist.png"
   },
   {
     "english": "Fire Fighter",
-    "polish": "Strażak",
+    "MPolish": "Strażak",
+    "FPolish": "this",
     "image": "/occupations/firefighter.png"
   },
   {
     "english": "Hairdresser",
-    "polish": "Fryzjer",
+    "MPolish": "Fryzjer",
+    "FPolish": "Fryzjerka",
     "image": "/occupations/hairdresser.png"
   },
   {
     "english": "Janitor",
-    "polish": "Dozorca",
+    "MPolish": "Dozorca",
+    "FPolish": "this",
     "image": "/occupations/janitor.png"
   },
   {
     "english": "Journalist",
-    "polish": "Księgowa",
+    "MPolish": "Dziennikarz",
+    "FPolish": "Dziennikarka",
     "image": "/occupations/journalist.png"
   },
   {
     "english": "Lawyer",
-    "polish": "Fryzjer",
+    "MPolish": "Prawnik",
+    "FPolish": "Prawniczka",
     "image": "/occupations/lawyer.png"
   },
   {
     "english": "Lecturer",
-    "polish": "Wykładowca",
+    "MPolish": "Lektorka",
+    "FPolish": "this",
     "image": "/occupations/lecturer.png"
   },
   {
     "english": "Nurse",
-    "polish": "Pielęgniarka",
+    "MPolish": "Pielęgniarz",
+    "FPolish": "Pielęgniarka",
     "image": "/occupations/nurse.png"
   },
   {
     "english": "Painter",
-    "polish": "Malarz",
+    "MPolish": "Malarz",
+    "FPolish": "Malarka",
     "image": "/occupations/painter.png"
   },
   {
     "english": "Programmer",
-    "polish": "Dozorca",
+    "MPolish": "Programista",
+    "FPolish": "Programistka",
     "image": "/occupations/programmer.png"
   },
   {
     "english": "Police Officer",
-    "polish": "Policjant",
+    "MPolish": "Policjant",
+    "FPolish": "Policjantka",
     "image": "/occupations/policeOfficer.png"
   },
   {
     "english": "Retired",
-    "polish": "Emerytowany",
+    "MPolish": "Emerytowany",
+    "FPolish": "this",
     "image": "/occupations/retired.png"
   },
   {
     "english": "Teacher",
-    "polish": "Nauczyciel",
+    "MPolish": "Nauczyciel",
+    "FPolish": "Nauczycielka",
     "image": "/occupations/teacher.png"
   },
   {
     "english": "Veterinarian",
-    "polish": "Lekarz Weterynarii",
+    "MPolish": "Weterynarz",
+    "FPolish": "this",
     "image": "/occupations/veterinarian.png"
   }
 ]

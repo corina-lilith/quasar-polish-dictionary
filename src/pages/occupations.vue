@@ -2,11 +2,12 @@
   <div class="q-pa-md row items-start q-gutter-md">
     <q-card v-for="occupations in zawody" :key="occupations.english">
       <q-img class="card-img" :src="occupations.image" />
+      <p style="text-align: center">{{ occupations.english }}</p>
       <table class="q-table">
         <tbody>
           <tr>
-            <td>{{ occupations.english }}</td>
-            <td>{{ occupations.polish }}</td>
+            <td>{{ occupations.MPolish }}</td>
+            <td>{{ occupations.FPolish }}</td>
           </tr>
         </tbody>
       </table>

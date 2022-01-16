@@ -1,92 +1,137 @@
 [
   {
-    "english": "Chilly",
-    "polish": "Chłodno",
-    "image": "/weather/chilly.png"
+    "title": "To be = Być",
+    "ja": "(ja) jestem",
+    "ty": "(ty) jesteś",
+    "on": "(on, ona, ono) jest",
+    "my": "(my) jesteśmy",
+    "wy": "(wy) jesteście",
+    "oni": "(oni, one) są"
   },
   {
-    "english": "Cloudy",
-    "polish": "Pochmurno",
-    "image": "/weather/cloudy.png"
+    "title": "To have = Mieć",
+    "ja": "(ja) mam",
+    "ty": "(ty) masz",
+    "on": "(on, ona, ono) ma",
+    "my": "(my) mamy",
+    "wy": "(wy) macie",
+    "oni": "(oni, one) mają"
   },
   {
-    "english": "Dry",
-    "polish": "Sucho",
-    "image": "/weather/dry.png"
+    "title": "To do/to make = Robić",
+    "ja": "(ja) robię",
+    "ty": "(ty) robisz",
+    "on": "(on, ona, ono) robi",
+    "my": "(my) robimy",
+    "wy": "(wy) robicie",
+    "oni": "(oni, one) robią"
   },
   {
-    "english": "Fog",
-    "polish": "Mgła",
-    "image": "/weather/fog.png"
+    "title": "To know = znać",
+    "ja": "(ja) znam",
+    "ty": "(ty) znasz",
+    "on": "(on, ona, ono) zna",
+    "my": "(my) znamy",
+    "wy": "(wy) znacie",
+    "oni": "(oni, one) znają"
   },
   {
-    "english": "Hail Fall",
-    "polish": "Padać Grad",
-    "image": "/weather/hail.png"
+    "title": "Can/may = Móc",
+    "ja": "(ja) mogę",
+    "ty": "możesz",
+    "on": "(on, ona, ono) może",
+    "my": "(my) możemy",
+    "wy": "(wy) możecie",
+    "oni": "(oni, one) mogą"
   },
   {
-    "english": "High Pressure",
-    "polish": "Wysokie Ciśnienie",
-    "image": "/weather/hp.png"
+    "title": "To say/to speak = Mówić",
+    "ja": "(ja) mówię",
+    "ty": "(ty) mówisz",
+    "on": "(on, ona, ono) mówi",
+    "my": "(my) mówimy",
+    "wy": "(wy) mówicie",
+    "oni": "(oni, one) mówią"
   },
   {
-    "english": "Hot",
-    "polish": "Gorąco",
-    "image": "/weather/hot.png"
+    "title": "To live” = Mieszkać",
+    "ja": "(ja) mieszkam",
+    "ty": "(ty) mieszkasz",
+    "on": "(on, ona, ono) mieszka",
+    "my": "(my) mieszkamy",
+    "wy": "(wy) mieszkacie",
+    "oni": "(oni, one) mieszkają"
   },
   {
-    "english": "Low Pressure",
-    "polish": "Niskie Ciśnienie",
-    "image": "/weather/lp.png"
+    "title": "To want = Chcieć",
+    "ja": "(ja) chcę",
+    "ty": "(ty) chcesz",
+    "on": "(on, ona, ono) chce",
+    "my": "(my) chcemy",
+    "wy": "(wy) chcecie",
+    "oni": "(oni, one) chcą"
   },
   {
-    "english": "Moist/Humid",
-    "polish": "Wilgotno",
-    "image": "/weather/humid.png"
+    "title": "To like = Lubić ",
+    "ja": "(ja) lubię",
+    "ty": "(ty) lubisz",
+    "on": "(on, ona, ono) lubi",
+    "my": "(my) lubimy",
+    "wy": "(wy) lubicie",
+    "oni": "(oni, one) lubią"
   },
   {
-    "english": "Outside",
-    "polish": "Na Dworze",
-    "image": "/weather/outside.png"
+    "title": "To go = Iść",
+    "ja": "(ja) idę",
+    "ty": "(ty) idziesz",
+    "on": "(on, ona, ono) idzie",
+    "my": "(my) idziemy",
+    "wy": "(wy) idziecie",
+    "oni": "(oni, one) idą"
   },
   {
-    "english": "Rainfall",
-    "polish": "Padać Deszcz",
-    "image": "/weather/rain.png"
+    "title": "To prefer = Woleć ",
+    "ja": "(ja) wolę",
+    "ty": "(ty) wolisz",
+    "on": "(on, ona, ono) woli",
+    "my": "(my) wolimy",
+    "wy": "(wy) wolicie",
+    "oni": "(oni, one) wolą"
   },
   {
-    "english": "Snowfall",
-    "polish": "Padać Śnieg",
-    "image": "/weather/snowfall.png"
+    "title": "To eat = Jeść",
+    "ja": "(ja) jem",
+    "ty": "(ty) jesz",
+    "on": "(on, ona, ono) je",
+    "my": "(my) jemy",
+    "wy": "(wy) jecie",
+    "oni": "(oni, one) jedzą"
   },
   {
-    "english": "Snow",
-    "polish": "Śnieg",
-    "image": "/weather/snow.png"
+    "title": "To drink = Napić się",
+    "ja": "(ja) się napiję",
+    "ty": "(ty) się napijesz",
+    "on": "(on, ona, ono) się napije",
+    "my": "(my) się napijemy",
+    "wy": "(wy) się napijecie",
+    "oni": "(oni, one) się napiją"
   },
   {
-    "english": "Steamy",
-    "polish": "Parno",
-    "image": "/weather/steamy.png"
+    "title": "To have = Mieć",
+    "ja": "Storm",
+    "ty": "Burza",
+    "on": "something",
+    "my": "something",
+    "wy": "something",
+    "oni": "something"
   },
   {
-    "english": "Storm",
-    "polish": "Burza",
-    "image": "/weather/storm.png"
-  },
-  {
-    "english": "Warm",
-    "polish": "Ciepło",
-    "image": "/weather/warm.png"
-  },
-  {
-    "english": "Wet",
-    "polish": "Mokro",
-    "image": "/weather/wet.png"
-  },
-  {
-    "english": "Windy",
-    "polish": "Wiać Wiatr",
-    "image": "/weather/windy.png"
+    "title": "To go” (by a vehicle)",
+    "ja": "(ja) jadę",
+    "ty": "(ty) jedziesz",
+    "on": "(on, ona, ono) jedzie",
+    "my": "(my) jedziemy",
+    "wy": "(wy) jedziecie",
+    "oni": "(oni, one) jadą"
   }
 ]

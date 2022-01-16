@@ -142,7 +142,7 @@
           <!--/Transport-->
 
           <!--Verbs-->
-          <q-item to="/alphabet" exact clickable v-ripple>
+          <q-item to="/verbs" exact clickable v-ripple>
             <q-item-section avatar>
               <q-icon name="auto_stories" />
             </q-item-section>

@@ -1,31 +1,36 @@
 <template>
-  <div class="fullscreen bg-blue text-white text-center q-pa-md flex flex-center">
+  <div class="text-black text-center q-pa-md flex flex-center">
     <div>
-      <div style="font-size: 30vh">
-        404
-      </div>
+      <div style="font-size: 50px">404</div>
 
-      <div class="text-h2" style="opacity:.4">
-        Oops. Nothing here...
+      <div class="text-h2">Oops. Nothing here...</div>
+      <div>
+        <q-btn
+          class="q-mt-xl"
+          color="purple"
+          text-color="white"
+          unelevated
+          to="/"
+          label="Go Home"
+          no-caps
+        />
       </div>
-
-      <q-btn
-        class="q-mt-xl"
-        color="white"
-        text-color="blue"
-        unelevated
-        to="/"
-        label="Go Home"
-        no-caps
-      />
+      <div><q-img class="img404" src="404_not_found.png" /></div>
     </div>
   </div>
 </template>
 
 <script>
-import { defineComponent } from 'vue'
+import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: 'Error404'
-})
+  name: "Error404",
+});
 </script>
+
+<style scoped>
+.img404 {
+  margin-left: 8rem;
+  margin-top: 1rem;
+}
+</style>

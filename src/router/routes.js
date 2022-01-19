@@ -29,7 +29,8 @@ const routes = [
       { path: '/days', component: () => import('src/pages/days.vue') },
       { path: '/transport', component: () => import('src/pages/transport.vue') },
       { path: '/weather', component: () => import('src/pages/weather.vue') },
-      { path: '/verbs', component: () => import('src/pages/verbs.vue') }
+      { path: '/verbs ', component: () => import('src/pages/verbs.vue') },
+      { path: '/error404.vue ', component: () => import('src/pages/error404.vue') }
 
     ]
   },
@@ -38,7 +39,7 @@ const routes = [
   // but you can also remove it
   {
     path: '/:catchAll(.*)*',
-    component: () => import('pages/Error404.vue')
+    component: () => import('src/pages/error404.vue')
   }
 ]
 

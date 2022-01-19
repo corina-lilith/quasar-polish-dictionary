@@ -38,7 +38,7 @@ const routes = [
   // but you can also remove it
   {
     path: '/:catchAll(.*)*',
-    component: () => import('src/pages/error404.vue')
+    component: () => import('src/pages/Error404.vue')
   }
 ]
 

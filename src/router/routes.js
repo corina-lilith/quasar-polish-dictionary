@@ -29,7 +29,7 @@ const routes = [
       { path: '/days', component: () => import('src/pages/days.vue') },
       { path: '/transport', component: () => import('src/pages/transport.vue') },
       { path: '/weather', component: () => import('src/pages/weather.vue') },
-      { path: '/verbs ', component: () => import('src/pages/verbs.vue') }
+      { path: '/verbs', component: () => import('src/pages/verbs.vue') }
 
     ]
   },

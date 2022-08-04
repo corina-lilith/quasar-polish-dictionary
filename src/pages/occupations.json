@@ -32,13 +32,13 @@
   {
     "english": "Cab Driver",
     "MPolish": "Taksówkarz",
-    "FPolish": "Taksówka",
+    "FPolish": "Taksówkarz",
     "image": "/occupations/cabDriver.png"
   },
   {
     "english": "Chef",
     "MPolish": "Szef Kuchni",
-    "FPolish": "this",
+    "FPolish": "Szef Kuchni",
     "image": "/occupations/chef.png"
   },
   {
@@ -50,7 +50,7 @@
   {
     "english": "Fire Fighter",
     "MPolish": "Strażak",
-    "FPolish": "this",
+    "FPolish": "Strażak",
     "image": "/occupations/firefighter.png"
   },
   {
@@ -62,7 +62,7 @@
   {
     "english": "Janitor",
     "MPolish": "Dozorca",
-    "FPolish": "this",
+    "FPolish": "Dozorczyni",
     "image": "/occupations/janitor.png"
   },
   {
@@ -74,14 +74,8 @@
   {
     "english": "Lawyer",
     "MPolish": "Prawnik",
-    "FPolish": "Prawniczka",
+    "FPolish": "Prawnik",
     "image": "/occupations/lawyer.png"
-  },
-  {
-    "english": "Lecturer",
-    "MPolish": "Lektorka",
-    "FPolish": "this",
-    "image": "/occupations/lecturer.png"
   },
   {
     "english": "Nurse",
@@ -109,8 +103,8 @@
   },
   {
     "english": "Retired",
-    "MPolish": "Emerytowany",
-    "FPolish": "this",
+    "MPolish": "Emeryt",
+    "FPolish": "Emerytka",
     "image": "/occupations/retired.png"
   },
   {
@@ -122,7 +116,7 @@
   {
     "english": "Veterinarian",
     "MPolish": "Weterynarz",
-    "FPolish": "this",
+    "FPolish": "Weterynarz",
     "image": "/occupations/veterinarian.png"
   }
 ]

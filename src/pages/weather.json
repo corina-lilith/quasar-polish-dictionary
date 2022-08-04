@@ -20,8 +20,8 @@
     "image": "/weather/fog.png"
   },
   {
-    "english": "Hail Fall",
-    "polish": "Padać Grad",
+    "english": "Hail",
+    "polish": "Grad",
     "image": "/weather/hail.png"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "english": "Moist/Humid",
-    "polish": "Wilgotno",
+    "polish": "Wilgotno/Parno",
     "image": "/weather/humid.png"
   },
   {
@@ -50,14 +50,9 @@
     "image": "/weather/outside.png"
   },
   {
-    "english": "Rainfall",
-    "polish": "Padać Deszcz",
+    "english": "Rain",
+    "polish": "Deszcz",
     "image": "/weather/rain.png"
-  },
-  {
-    "english": "Snowfall",
-    "polish": "Padać Śnieg",
-    "image": "/weather/snowfall.png"
   },
   {
     "english": "Snow",
@@ -86,7 +81,7 @@
   },
   {
     "english": "Windy",
-    "polish": "Wiać Wiatr",
+    "polish": "Wietrznie",
     "image": "/weather/windy.png"
   }
 ]
